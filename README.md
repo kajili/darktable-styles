@@ -14,7 +14,9 @@ To use these styles:
 
 ### light simulation
 
-1. This style is just a way of combining two module presets, an instance of `haze removal` and an instance of `color balance rgb`. This simulates a light source.
+This style simulates a light source.
+
+1. This style is just a way of combining two module presets, an instance of `haze removal` and an instance of `color balance rgb`.
 2. To use it, you must go into `haze removal` and add a mask to direct the light source properly.
 3. Then the `color balance rgb` module should automatically use the same mask as a `raster mask`.
 4. From there you can tweak the intensity of the light using dehaze in `haze removal` and the `global brilliance grading` sliders (mostly `highlights`) in `color balance rgb`.

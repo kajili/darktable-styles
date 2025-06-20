@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<darktable_style version="1.0"><info><name>tools|grain</name><description></description></info><style><plugin><num>23</num><module>2</module><operation>grain</operation><op_params>02000000bd1ec03d0000c8410000c842</op_params><enabled>1</enabled><blendop_params>gz10eJxjYGBgYAJiCQYYOOHEgAZY0QWAgBGLGANDgz0Ej1Q+dcF/IADRAG2yHQc=</blendop_params><blendop_version>14</blendop_version><multi_priority>0</multi_priority><multi_name>film</multi_name><multi_name_hand_edited>1</multi_name_hand_edited></plugin></style></darktable_style>
